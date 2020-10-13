@@ -12,7 +12,7 @@
       <!--使用4.11是为了导入依赖的方式来写代码-->
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.12</version>
+      <version>4.13.1</version>
       <scope>test</scope>
     </dependency>
     <!--补全项目所需要的依赖-->
